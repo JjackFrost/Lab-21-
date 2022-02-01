@@ -97,5 +97,6 @@ int main(){
 		}
 	}
 	printreport(allcourses);
+
 	
 }
